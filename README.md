@@ -53,11 +53,17 @@
 ### 🌲 Contributions as a 3D forest
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-tree-season-north.svg" alt="Contribution forest through the seasons"/>
+  <img src="./profile-3d-contrib/profile-tree-mixed.svg" alt="Contribution forest"/>
 </p>
 
 <details>
 <summary>Other versions</summary>
+
+**Seasons, northern hemisphere**
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-tree-season-north.svg" alt="Northern hemisphere seasons"/>
+</p>
 
 **Pine forest**
 
@@ -69,6 +75,12 @@
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-tree-round.svg" alt="Round-crown forest"/>
+</p>
+
+**Autumn**
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-tree-autumn.svg" alt="Autumn forest"/>
 </p>
 
 **Seasons, southern hemisphere**
