@@ -20,6 +20,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_INCLUDE_PRIVATE: true
+          SETTING_JSON: trees.json
       - name: Commit & Push
         run: |
           git config user.name github-actions

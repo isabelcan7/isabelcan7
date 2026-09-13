@@ -50,8 +50,31 @@
 
 ---
 
-### 🧊 Contributions in 3D
+### 🌲 Contributions as a forest
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar"/>
+  <img src="./profile-3d-contrib/profile-tree-season-north.svg" alt="Contribution forest through the seasons"/>
 </p>
+
+<details>
+<summary>Other versions</summary>
+
+**Pine forest**
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-tree-pine.svg" alt="Pine forest"/>
+</p>
+
+**Round crowns**
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-tree-round.svg" alt="Round-crown forest"/>
+</p>
+
+**Seasons, southern hemisphere**
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-tree-season-south.svg" alt="Southern hemisphere seasons"/>
+</p>
+
+</details>
