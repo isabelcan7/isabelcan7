@@ -50,7 +50,7 @@
 
 ---
 
-### 🌲 Contributions as a forest
+### 🌲 Contributions as a 3D forest
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-tree-season-north.svg" alt="Contribution forest through the seasons"/>
@@ -78,3 +78,7 @@
 </p>
 
 </details>
+
+<p align="center">
+  <sub>Grown with <a href="https://github.com/isabelcan7/github-profile-3d-contrib">my fork</a> of <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a> — added tree shapes and seasonal forests.</sub>
+</p>
