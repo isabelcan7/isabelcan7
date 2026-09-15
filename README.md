@@ -49,7 +49,7 @@
 
 ---
 
-### 🌲 Contributions as a 3D forest
+### 🌲 My contributions as a 3D forest :D
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-tree-season-north.svg" alt="Contribution forest through the seasons"/>
